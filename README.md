@@ -1,2 +1,2 @@
-# reading_group
-BU CV Reading Group
+# BU CV Reading Group
+Repository for the reading group's page
