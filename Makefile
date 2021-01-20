@@ -1,9 +1,9 @@
-DOCS=index resume projects experience
+DOCS=index spring21
 
 .PHONY : update
 update : 
 	@echo -n 'Copying to server...'
-	@git add --all .
+	@git add -u .
 	@git commit -m "Updating webpage"
 	@git push
 	@echo ' done.'
